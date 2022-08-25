@@ -1,53 +1,40 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 11/19/2017
+tags: Restoration Machines
+description: My experience restoring a 2601 Craftsman Bench Grinder from a rust pile to fully functional and pretty.
+slug: craftsman-2601-bench-grinder
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Craftsman 2601 Bench Grinder
+
+My experience restoring a 2601 Craftsman Bench Grinder from a rust pile to fully functional and pretty.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Craftsman 2601 Bench Grinder](#craftsman-2601-bench-grinder)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
+  - [Initial Condition](#initial-condition)
+  - [Restoration](#restoration)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+I don't have a lot of information about this machine, unfortunately. The model number is 2601 and these machines were made by Sears Craftsman in the 1930s to 1940s. I purchased this machine from a man in South Denver, he claimed his grandfather purchased the machine new and built the stand it came with.
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+## Initial Condition
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+This machine was in working order when I purchased it. The motor and grinder head functioned perfectly as it was. The stand was extremely rickety and made of patchwork wood. The bearings were smooth and ran well considering their age, however, they did produce a little extra noise and felt dry.
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+## Restoration
 
-`write-your-code-here`
+As per my previous restoration, I began by disassembling the entire machine down to its component parts. All of the small parts were soaked in white vinegar for 24 hours, then scrubbed with a brass brush and cleaned with brake cleaner. The larger parts were stripped down using various wire wheels across my grinder, cordless drill, and rotary tool.
 
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+After cleanup, the painted parts were re-painted and the bare metal parts were cleaned up using brake cleaner and coated with a dry Teflon lubricant (not necessary this time as this is a metalworking tool, but it doesn't hurt either). I used Rust-Oleum Royal Blue Enamel for the painted parts, which (like the smoke gray) is a very close match to the original Craftsman blue.
 
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+I purchased new bearings from the original manufacturer, SKF. That company not only still exists, but still carries the same bearing with the same part number as they did in the 1930s! The new bearings fit perfectly and run smooth and silent.
+
+To my dismay, the cleaner I used dissolved the paint off the Craftsman logo on the front of the main housing. Unable to put back what I had already damaged, I decided to polish the plate instead.
+
+I purchased the black steel tool stand from Harbor Freight and build a small drawer and mount out of 3/4in birch plywood with alder trim. I forgot to take pictures of that build, but it's pretty much just a box with a drawer riding on slides.
